@@ -3,6 +3,8 @@ import 'lessons/bai1.dart';
 import 'lessons/bai2.dart';
 import 'lessons/bai3.dart';
 import 'lessons/bai4.dart';
+import 'lessons/bai5.dart';
+import 'lessons/bai6.dart';
 import 'lessons/bai7.dart';
 import 'models/lesson.dart';
 
@@ -12,6 +14,8 @@ List<Lesson> get allLessons => [
   bai2Data,
   bai3Data,
   bai4Data,
+  bai5Data,
+  bai6Data,
   bai7Data,
 ];
 
